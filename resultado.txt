@@ -1,0 +1,12 @@
+Selección aleatoria (semilla: 20250610):
+1. Sorte O Soro 2023
+2. L'Ermita 2022
+3. Pazo Señorans Selección de Añada 2014
+4. Vega Sicilia Único 2015
+5. Cirsion 2021
+6. Tradición Oloroso VORS
+7. Recaredo Homenatge a Josep Mata Capellades 2004
+8. Poley Amontillado Convento Selección 1952
+
+Hash SHA-256:
+8e14e669326bbde9e4a33052c84fb03801299d73da88a87443de911ee2308bdf
